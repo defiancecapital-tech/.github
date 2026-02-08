@@ -1,41 +1,22 @@
 <br />
 <div align="center">
-  <a href="https://docs.opengradient.ai/">
-    <img src="https://avatars.githubusercontent.com/u/138426157?s=400&u=e21ef6889f893a8a8c6c4cdc141e6b90fd9baa10&v=4" alt="Logo" width="80" height="80">
+  <a href="https://docs.defiancecapital.ai/">
+    <img src="defiance_capital_cover.png" alt="Logo" width=100% height="80">
   </a>
 
-  <h3 align="center">OpenGradient</h3>
+  <h3 align="center">Defiance Capital Team</h3>
 
   <p align="center">
-  OpenGradient is the leading research lab building a network for open intelligence. The OpenGradient network powers high-performance verifiable computing for AI: host models, run secure inference, and deploy agents onchain.
-    <br />
-    <br />
-    <br />
+    DeFiance Capital's technical team operates at the forefront of DeFi and GameFi, backed by early venture investments in unicorns like dYdX (25x), Axie Infinity (250x), and Arbitrum (52x). Our thesis-driven, fundamental approach has been ranked the #1 APAC-based crypto hedge fund for two consecutive quarters by Preqin.
+  </p>
+  <p>
+    We're growing fast, always opened to creative ideas and bridging the decentralized world with traditional folks.
   </p>
 </div>
 
-Building the future of verifiable AI with credibly-neutral infrastructure, verifiable computing infrastructure, and open and accessible models - empowering everyone to shape and own AI.
-
 ## Community
 
-Visit our [Website](https://opengradient.ai)
+Visit our [Website](https://defiance.capital)
 
-Read [Documentation](https://docs.opengradient.ai)
-
-Follow us on [Twitter](https://x.com/OpenGradient)
-
-Join our [Discord](https://discord.gg/axammqTRDz)
-
-Read our [blogs](https://opengradient.ai/blog)
-
-CMC ID: 1344558
-
-<!--
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Follow us on [LinkedIn](https://www.linkedin.com/company/defiance-capital/) 
+         and [Twitter](https://twitter.com/DeFianceCapital)
