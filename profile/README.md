@@ -20,3 +20,5 @@ Visit our [Website](https://defiance.capital)
 
 Follow us on [LinkedIn](https://www.linkedin.com/company/defiance-capital/) 
          and [Twitter](https://twitter.com/DeFianceCapital)
+
+Contact us on [Email](contact@defiances.capital)
