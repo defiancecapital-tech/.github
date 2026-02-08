@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://docs.defiancecapital.ai/">
-    <img src="defiance_capital_cover.png" alt="Logo" width=100% height="80">
+    <img src="defiance_capital_cover.png" alt="Logo" width=100% height="200px">
   </a>
 
   <h3 align="center">Defiance Capital Team</h3>
